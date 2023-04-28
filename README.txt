@@ -1,8 +1,7 @@
-Summary
-    Create an IOT device that can measure and relay information about a plant/environment to a user
-    It should be able to handle any plant by asking the user to input the name of the plant and then finding the relevant statistics to maintain the plant at; water levels, surrounding temperature, sunlight exposure...
-    The measured data must be relayed to the user via an app that they can log into
+Name of Project: IBotanist
 
+Project Overview:
+    This project will aim to create a system that will be able to remotely monitor the welfare of a plant and provide a user with tips and reminder about their plant. For example, they may receive a notification to their phone reminding them to water their plant each day, as well as updates on the plant's health from real-time data. This system will incorporate multiple sensors. Below are the sensors we will be using and a short sentence about what they will be used for.
 
 Hardware
     Temperature sensor - collects surrounding air temperature in celsius
@@ -15,4 +14,12 @@ Hardware
         Rotate through collected information
         Perform a check (manually) of the levels
 
+Contributors (add name here once you've pushed a commit to the main repository):
+- [Contributor 1]
+- [Contributor 2]
+- [Contributor 3]
+- [Contributor 4]
+
 Software/programs
+=> GitHub - stores code for our project that can be edited at any time.
+=> ThinkBoard - stores data if the data goes above a max. threshold, or a min. threshold, and alerts the user with the time and date the alert was set off.
